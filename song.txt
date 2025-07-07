@@ -1,4 +1,6 @@
 lol
 lol 2x
+<<<<<<< HEAD
 blablalba
 ---------------
+>>>>>>> 4aa0595725631aed7aae6531d38f19f90bac635a
